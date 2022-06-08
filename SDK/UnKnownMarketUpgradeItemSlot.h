@@ -1,0 +1,41 @@
+// WidgetBlueprintGeneratedClass UnKnownMarketUpgradeItemSlot.UnKnownMarketUpgradeItemSlot_C
+class UUnKnownMarketUpgradeItemSlot_C : public UPDUnKnownMarketUpgradeItemSlot {
+
+public:
+
+	struct UImage IMG_Current_ARMORY; // 0x4A0 (8)
+	struct UImage IMG_Current_DEFENCE; // 0x4A8 (8)
+	struct UImage IMG_Current_ORDNANCE; // 0x4B0 (8)
+	struct UImage IMG_Current_TACTICAL; // 0x4B8 (8)
+	struct UImage IMG_GaugeBg; // 0x4C0 (8)
+	struct UImage IMG_GaugeOutline; // 0x4C8 (8)
+	struct UImage IMG_GlowBox_ARMORY; // 0x4D0 (8)
+	struct UImage IMG_GlowBox_DEFENCE; // 0x4D8 (8)
+	struct UImage IMG_GlowBox_ORDNANCE; // 0x4E0 (8)
+	struct UImage IMG_GlowBox_TACTICAL; // 0x4E8 (8)
+	struct UImage IMG_GlowLine_ARMORY; // 0x4F0 (8)
+	struct UImage IMG_GlowLine_DEFENCE; // 0x4F8 (8)
+	struct UImage IMG_GlowLine_ORDNANCE; // 0x500 (8)
+	struct UImage IMG_GlowLine_TACTICAL; // 0x508 (8)
+	struct UImage IMG_LevelBg_ARMORY; // 0x510 (8)
+	struct UImage IMG_LevelBg_DEFENCE; // 0x518 (8)
+	struct UImage IMG_LevelBg_Off; // 0x520 (8)
+	struct UImage IMG_LevelBg_ORDNANCE; // 0x528 (8)
+	struct UImage IMG_LevelBg_TACTICAL; // 0x530 (8)
+	struct UImage IMG_LockIcon_ARMORY; // 0x538 (8)
+	struct UImage IMG_LockIcon_DEFENCE; // 0x540 (8)
+	struct UImage IMG_LockIcon_ORDNANCE; // 0x548 (8)
+	struct UImage IMG_LockIcon_TACTICAL; // 0x550 (8)
+	struct UImage IMG_OutLine_ARMORY; // 0x558 (8)
+	struct UImage IMG_OutLine_DEFENCE; // 0x560 (8)
+	struct UImage IMG_OutLine_ORDNANCE; // 0x568 (8)
+	struct UImage IMG_OutLine_TACTICAL; // 0x570 (8)
+	struct UImage IMG_SlotBg_ARMORY; // 0x578 (8)
+	struct UImage IMG_SlotBg_DEFENCE; // 0x580 (8)
+	struct UImage IMG_SlotBg_Else; // 0x588 (8)
+	struct UImage IMG_SlotBg_First; // 0x590 (8)
+	struct UImage IMG_SlotBg_Off; // 0x598 (8)
+	struct UImage IMG_SlotBg_ORDNANCE; // 0x5A0 (8)
+	struct UImage IMG_SlotBg_TACTICAL; // 0x5A8 (8)
+};
+

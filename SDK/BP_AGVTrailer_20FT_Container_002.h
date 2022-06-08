@@ -1,0 +1,43 @@
+// BlueprintGeneratedClass BP_AGVTrailer_20FT_Container_002.BP_AGVTrailer_20FT_Container_002_C
+class ABP_AGVTrailer_20FT_Container_002_C : public APDDynamicObject {
+
+public:
+
+	struct UStaticMeshComponent MDESTROY_Back; // 0x670 (8)
+	struct UStaticMeshComponent MDESTROY_Front; // 0x678 (8)
+	struct UStaticMeshComponent ALIVEOBJ_Back; // 0x680 (8)
+	struct UStaticMeshComponent ALIVEOBJ_Front; // 0x688 (8)
+	struct UStaticMeshComponent WINDOW4#AGV_Trailer_glass7; // 0x690 (8)
+	struct UStaticMeshComponent WINDOW3#AGV_Trailer_glass6; // 0x698 (8)
+	struct UStaticMeshComponent WINDOW2#AGV_Trailer_glass4; // 0x6A0 (8)
+	struct UStaticMeshComponent WINDOW1#AGV_Trailer_glass5; // 0x6A8 (8)
+	struct UStaticMeshComponent WINDOW4#AGV_Trailer_glass3; // 0x6B0 (8)
+	struct UStaticMeshComponent WINDOW3#AGV_Trailer_glass2; // 0x6B8 (8)
+	struct UStaticMeshComponent WINDOW2#AGV_Trailer_glass1; // 0x6C0 (8)
+	struct UStaticMeshComponent WINDOW1#AGV_Trailer_glass; // 0x6C8 (8)
+	struct UStaticMeshComponent BAGGAGE#SM_AGV_20FTContainer_MD; // 0x6D0 (8)
+	struct UStaticMeshComponent BAGGAGE#SM_AGV_20FTContainer; // 0x6D8 (8)
+	struct UStaticMeshComponent BODY#SM_AGVTrailer_20FT_Burn_MD; // 0x6E0 (8)
+	struct UStaticMeshComponent BODY#SM_AGV_Trailer_20FTContainer_FD; // 0x6E8 (8)
+	struct UStaticMeshComponent BODY#SM_AGV_Trailer_20FTContainer; // 0x6F0 (8)
+	struct UPDDynamicObjectPoint POINT2#Fire2_3; // 0x6F8 (8)
+	struct USplineComponent SPLINE1#Spline; // 0x700 (8)
+	struct UStaticMeshComponent WHEEL2#SM_AGVTrailer_Tire2; // 0x708 (8)
+	struct UStaticMeshComponent WHEEL4#SM_AGVTrailer_Tire2; // 0x710 (8)
+	struct UStaticMeshComponent WHEEL1#SM_AGVTrailer_Tire2; // 0x718 (8)
+	struct UStaticMeshComponent WHEEL3#SM_AGVTrailer_Tire2; // 0x720 (8)
+	struct UStaticMeshComponent WHEEL4#SM_AGVTrailer_Tire1; // 0x728 (8)
+	struct UStaticMeshComponent WHEEL3#SM_AGVTrailer_Tire1; // 0x730 (8)
+	struct UStaticMeshComponent WHEEL2#SM_AGVTrailer_Tire1; // 0x738 (8)
+	struct UStaticMeshComponent WHEEL1#SM_AGVTrailer_Tire1; // 0x740 (8)
+	struct UStaticMeshComponent WHEEL1#SM_AGVTrailer_Tire; // 0x748 (8)
+	struct UStaticMeshComponent WHEEL4#SM_AGVTrailer_Tire; // 0x750 (8)
+	struct UStaticMeshComponent WHEEL3#SM_AGVTrailer_Tire; // 0x758 (8)
+	struct UStaticMeshComponent WHEEL2#SM_AGVTrailer_Tire; // 0x760 (8)
+	struct USceneComponent MDESTROY#; // 0x768 (8)
+	struct UPDDynamicObjectPoint POINT2#Fire1_2; // 0x770 (8)
+	struct UPDDynamicObjectPoint POINT1#Smoke1_2; // 0x778 (8)
+	struct USceneComponent FDESTROY#; // 0x780 (8)
+	struct USceneComponent ALIVEOBJ#; // 0x788 (8)
+};
+
